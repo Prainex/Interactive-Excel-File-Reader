@@ -1,9 +1,13 @@
 Before running the application, please install the necessary libraries for the application to run smoothly!
 
 pip install PyQt5
+
 pip install openpyxl
+
 pip install pandas
+
 pip install matplotlib
+
 pip install seaborn
 
 
